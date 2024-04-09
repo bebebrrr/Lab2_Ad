@@ -8,5 +8,10 @@
         "nomer": "6",
         "punkt": "New-York",
         "time": 6
+    },
+    {
+        "nomer": 6,
+        "punkt": "New-York",
+        "time": 6
     }
 ]
